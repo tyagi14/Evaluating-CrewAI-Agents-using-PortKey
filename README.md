@@ -167,10 +167,3 @@ Evaluating-CrewAI-Agents-Portkey/
 | Multi-model support | ❌ One provider | ✅ 200+ LLM providers |
 | Request logs | ❌ None | ✅ Complete request/response logs |
 
-## ⚠️ Security Note
-
-This notebook originally contained a hardcoded Portkey API key. **Always use environment variables** for API keys and never commit them to version control. The `.gitignore` in this repo excludes `.env` files automatically.
-
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
